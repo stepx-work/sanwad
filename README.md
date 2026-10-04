@@ -67,14 +67,13 @@ Open [`prototype/index.html`](prototype/index.html) in any browser — no build 
 ```
 sanwad/
 ├── prototype/
-│   └── index.html          # interactive 2-phone prototype (open in browser)
-├── pitch-deck/
-│   └── Sanwad_PS26173_SIHS2026_Deck.pptx   # 7-slide pitch deck
+│   └── index.html          # interactive 2-phone prototype (open in browser) 
 ├── screenshots/            # verified prototype captures
 ├── tools/
 │   └── build_deck.py       # regenerates the pitch deck (pip install python-pptx)
 ├── LICENSE
-└── README.md
+├── README.md
+└──StepXsih26173
 ```
 
 ## Honest note (prototype)
